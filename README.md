@@ -6,7 +6,7 @@ This repository contains Python code that demonstrates the application of variou
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Week assignments](#week assignments)
+- [Assignments](#assignments)
 - [Features](#features)
 - [Tests](#tests)
 - [Contributing](#contributing)
@@ -26,7 +26,7 @@ To use the code in this repository, follow these steps:
 2. Navigate to the project directory: `cd PythonExercisesOOP`
 3. Install the required dependencies: `pipenv install`
 
-## Week assignments
+## Assignments
 
 ### Week1
 Create a set of Python functions that can be accessed from the REPL that allows to create and manage an in-memory todo list.
