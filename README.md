@@ -48,9 +48,9 @@ You need to be able to:
 Also:
 
 - Create a little terminal program which makes use of your todo list
-- Use pipenv
+- Use `pipenv`
 - Apply PEP8
-- Install flake8
+- Install `flake8`
 - Manage your workflow with GitFlow
 
 ### Week 2
@@ -67,11 +67,24 @@ Also:
 - You might mock the file persistence
 
 - Also:
-    - Configure a setup.py
-    - Configure the flake8 and coverage
+    - Configure a `setup.py`
+    - Configure the `flake8` and `coverage`
     - Have a coverage report
     - Use custom exception for validation
-    - Implement logging
+    - Implement `logging`
+
+### Week 4
+- Change the previous todo list module to use a `PostgreSQL` database instead of files for storage. 
+- Use `SQLAlchemy` as your SQLadapter, but manage everything with raw SQL series. 
+- You have to provide the tables structure for the todo list and its DDL to create the database, provide the ability to sort the tasks, group them by tag, etc. 
+- Generate a SQL diagram with `Schemaspy`.
+- Make sure that the test suite works for your solution and add the tests needed in order to keep the 80% + coverage.
+
+- Extra:
+    - Implement a console program which uses the todolist package
+    - Include `setup.py` file
+    - Log the application
+    - `Schemaspy` report
 
 ## Features
 
