@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mytodolists = {editable = true, path = "."}
+sqlalchemy = "*"
+psycopg2-binary = "*"
+
+[dev-packages]
+flake8 = "*"
+coverage = "*"
+
+[requires]
+python_version = "3.9"
