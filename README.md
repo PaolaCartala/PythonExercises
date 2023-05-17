@@ -28,7 +28,7 @@ To use the code in this repository, follow these steps:
 
 ## Assignments
 
-### Week1
+### Week 1
 Create a set of Python functions that can be accessed from the REPL that allows to create and manage an in-memory todo list.
 
 You need to be able to:
