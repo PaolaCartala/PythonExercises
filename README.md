@@ -69,7 +69,7 @@ Also:
 - Also:
     - Configure a `setup.py`
     - Configure the `flake8` and `coverage`
-    - Have a coverage report
+    - Have a `coverage` report
     - Use custom exception for validation
     - Implement `logging`
 
