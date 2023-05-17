@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+mytodolists/__init__.py
+mytodolists/entities.py
+mytodolists/entities_db.py
+mytodolists/front.py
+mytodolists/logic.py
+mytodolists/user_inputs.py
+mytodolists.egg-info/PKG-INFO
+mytodolists.egg-info/SOURCES.txt
+mytodolists.egg-info/dependency_links.txt
+mytodolists.egg-info/top_level.txt
